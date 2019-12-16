@@ -1,1 +1,1 @@
-# Finite state Machine example
+# Finite state machine example
